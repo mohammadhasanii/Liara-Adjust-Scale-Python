@@ -8,7 +8,7 @@ This service is an automatic scaler for Liara's cloud infrastructure and does no
 ![Logo](https://middleware.io/static/79f5bb408800e7b54c2269add486c153/12bf8/auto-scale-2.jpg)
 
 
-## How to work ?
+## Documentation
 
 
 ```
